@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent-container{
+    background-image: url("./images/5310794.jpg");
+    background-size: cover;
+    
+    height: 100vh;
+    width: auto;
+}
+.title{
+    color: #DEB4A1;
+}
+.ms-3{
+    color: aliceblue;
+}
+#myCarousel{
+    height: 50vh;
+}
+#loc{
+    color: white;
+}
+#txt{
+    color: white;
+}
+#order{
+    margin: 10px;
+    border-radius: 20px;
+}
+#list{
+    color: #DEB4A1;
+}
+h1{
+    color: #DEB4A1;
+}
